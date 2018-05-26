@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ScrapeOpen
+title: Documentation page
 ---
 
 # Documentation page
