@@ -15,6 +15,14 @@ nav ul li, footer ul li {
 footer li:last-child {
     float:right;
 }
+nav {
+    border-bottom: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .6em;
+}
 a {
     text-decoration: none;
     color: #999;
@@ -40,11 +48,6 @@ p, ul, blockquote {
     color: #333;
     font-family: 'Open Sans', sans-serif;
 }
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .6em;
-}
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.3em;
