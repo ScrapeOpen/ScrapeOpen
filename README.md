@@ -1,3 +1,3 @@
-![logo](project_files/images/scrapeopen-logo.png)
+![logo](images/scrapeopen-logo.png)
 
 
