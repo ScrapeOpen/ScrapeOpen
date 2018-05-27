@@ -2,4 +2,4 @@
 layout: default
 title: Help
 ---
-Getting Help
+# Getting Help
