@@ -14,6 +14,16 @@ The project *dataverse* (which is a collection of *datasets*) is:
 
 # How to create a dataset
 
-1. Click on <img  src="/ScrapeOpen/images/dataverse-add-data-button.png" alt="Smiley face" width="80" height="42">;
-2. 
+1. Click on <img  src="/ScrapeOpen/images/dataverse-add-data-button.png" alt="Smiley face" width="80" height="42"> and `New Dataset`;
+
+## Titling norms
+
+Add an English translation of the actual name of the resource that originally published the data and the URL (without `http://`) of the same resource separated by a `|`.
+
+> Historical Archive of Elections | elezionistorico.interno.gov.it
+
+## Metadata norms
+
+
+
 
