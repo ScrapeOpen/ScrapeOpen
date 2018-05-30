@@ -3,4 +3,4 @@ layout: default
 title: Documentation
 ---
 
-1. (Dataverse)[dataverse.html]
+1. [Dataverse](dataverse.html)
