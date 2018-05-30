@@ -18,12 +18,22 @@ The project *dataverse* (which is a collection of *datasets*) is:
 
 ## Titling norms
 
-Add an English translation of the actual name of the resource that originally published the data and the URL (without `http://`) of the same resource separated by a `|`.
+2. Add an English translation of the actual name of the resource that originally published the data and the URL (without `http://`) of the same resource separated by a `|`.
 
 > Historical Archive of Elections | elezionistorico.interno.gov.it
 
 ## Metadata norms
 
+3. Add the metadata as following the norms detailed below.
 
+### Author(s)
+
+Author should indicated their name and any other detail they wish to add.
+
+### Description
+
+The dataset must be described briefly (what do we find in the dataset?). The description should also include the URL of the resource and the URL of the scraper depository on the ScrapeOn repository.
+
+> `Historical archive of Italian elections published by Italy's Ministry of Interior scraped from <a href='http://elezionistorico.interno.gov.it/'>elezionistorico.interno.gov.it</a>. Code on GitHub: <a href = 'https://github.com/ScrapeOpen/elezionistorico.interno.gov.it'>github.com/ScrapeOpen/elezionistorico.interno.gov.it</a>.`
 
 
