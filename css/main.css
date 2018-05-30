@@ -85,3 +85,7 @@ blockquote:after {
   font-size: 0.875em;
   color: #e74c3c;
 }
+code {
+  display: block;
+  white-space: pre-wrap   
+}
