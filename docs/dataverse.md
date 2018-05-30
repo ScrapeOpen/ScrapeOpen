@@ -10,10 +10,10 @@ title: Dataverse
 
 The project *dataverse* (which is a collection of *datasets*) is:
 
-<center><a href="https://dataverse.harvard.edu/dataverse/ScrapeOpen">dataverse.harvard.edu/dataverse/ScrapeOpen</a></center>
+<center><p><a href="https://dataverse.harvard.edu/dataverse/ScrapeOpen">dataverse.harvard.edu/dataverse/ScrapeOpen</a></p></center>
 
 # How to create a dataset
 
-1. Click on <img  src="/ScrapeOpen/images/dataverse-add-data-button.png" alt="Smiley face" width="42" height="42"></img>;
+1. Click on <img  src="/ScrapeOpen/images/dataverse-add-data-button.png" alt="Smiley face" width="80" height="42">;
 2. 
 
