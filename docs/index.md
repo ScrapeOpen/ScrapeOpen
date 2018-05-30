@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Documentation page
+title: Documentation
 ---
-
-# Documentation page
 
 1. (Dataverse)[dataverse.html]
