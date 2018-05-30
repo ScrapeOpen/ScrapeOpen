@@ -5,12 +5,12 @@ title: Documentation
 
 A typical workflow looks like this:
 
-![Workflow diagram](/ScrapeOpen/images/workflow-diagram.svg)
+<img src="/ScrapeOpen/images/workflow-diagram.svg" alt="Workflow diagram" style="height: 200px;"/>
 
 # Coding for data
 
-1. [Coding](coding.html)
+ [Coding](coding.html)
 
 # Storing data
 
-2. [Dataverse](dataverse.html)
+[Dataverse](dataverse.html)
