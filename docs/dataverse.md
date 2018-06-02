@@ -20,11 +20,9 @@ Click on `+Add Data` and `New Dataset`;
 
 Add an English translation of the actual name of the resource that originally published the data and the URL (without `http://`) of the same resource separated by a `|`.
 
-<pre>
 ```
 Historical Archive of Elections | elezionistorico.interno.gov.it
 ```
-</pre>
 
 ## Metadata norms
 
