@@ -48,5 +48,5 @@ Code on GitHub: <a href = 'https://github.com/ScrapeOpen/elezionistorico.interno
 Raw data (i.e. data as downloaded from the original source) should be uploaded in compressed folders. To avoid automatic unpacking of the archive append `_` to the extensions (e.g. `.zip_` or `.tar_`). The file name should start with `raw_` followed by indication of the file type (e.g. `csv`, `xlm`) and brief indication that can help users navigate the different raw data archives.
 
 ```
-	raw_csv_20180304.zip_
+raw_csv_20180304.zip_
 ```
