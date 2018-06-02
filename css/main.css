@@ -87,9 +87,12 @@ blockquote:after {
 }
 code {
     font-size: 1.3em;
-    background: hsl(220, 80%, 90%); 
+    background: hsl(220, 11%, 90%); 
 }
+pre code {
+    font-size: .8em;
+}
+
 pre {
-    font-size: 1.3em;
     white-space: pre-wrap;
 }
