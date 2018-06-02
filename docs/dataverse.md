@@ -20,9 +20,11 @@ Click on `+Add Data` and `New Dataset`;
 
 Add an English translation of the actual name of the resource that originally published the data and the URL (without `http://`) of the same resource separated by a `|`.
 
+<pre>
 ```
 Historical Archive of Elections | elezionistorico.interno.gov.it
 ```
+</pre>
 
 ## Metadata norms
 
@@ -36,10 +38,12 @@ Author should indicated their name and any other detail they wish to add.
 
 The dataset must be described briefly (what do we find in the dataset?). The description should also include the URL of the resource and the URL of the scraper depository on the ScrapeOn repository. The description field accepts HTML tags.
 
+<pre>
 ```html
 Historical archive of Italian elections published by Italy's Ministry of Interior scraped from <a href='http://elezionistorico.interno.gov.it/'>elezionistorico.interno.gov.it</a>.
 Code on GitHub: <a href = 'https://github.com/ScrapeOpen/elezionistorico.interno.gov.it'>github.com/ScrapeOpen/elezionistorico.interno.gov.it</a>.
 ```
+</pre>
 
 ## Uploading norms
 
@@ -47,7 +51,8 @@ Code on GitHub: <a href = 'https://github.com/ScrapeOpen/elezionistorico.interno
 
 Raw data (i.e. data as downloaded from the original source) should be uploaded in compressed folders. To avoid automatic unpacking of the archive append `_` to the extensions (e.g. `.zip_` or `.tar_`). The file name should start with `raw_` followed by indication of the file type (e.g. `csv`, `xlm`) and brief indication that can help users navigate the different raw data archives.
 
+<pre>
 ```
 	raw_csv_20180304.zip_
 ```
-
+</pre>
