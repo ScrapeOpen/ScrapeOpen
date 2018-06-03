@@ -50,4 +50,4 @@ If you are interested in coding for the project, read this [documentation](codin
 
 # Storing data
 
-If you want to understand how to properly store the data read this [documentation](dataverse.html).
+If you want to understand how data is stored in the [project's Dataverse](https://dataverse.harvard.edu/dataverse/ScrapeOpen), visit the [documentation page](dataverse.html).
