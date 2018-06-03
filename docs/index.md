@@ -31,7 +31,18 @@ A typical workflow would include these steps:
 
 </div>
   <div class="column"><img src="/ScrapeOpen/images/workflow-diagram.svg" alt="Workflow diagram" style="height: 550px; display: block; margin-left: auto; margin-right: auto;"/></div>
-</div>
+  </div>
+
+## Essential glossary
+
+Repository
+: On **github.com**, a *repository* (or *repo*) is a collection of files in their current version and in their previous versions.
+
+Dataverse
+: On **dataverse.harvard.edu**, a *dataverse* is a collection of *datasets*.
+
+Dataset
+: On **dataverse.harvard.edu**, a *dataset* is a collection of files and their metadata.
 
 # Coding for data
 
@@ -39,4 +50,4 @@ If you are interested in coding for the project, read this [documentation](codin
 
 # Storing data
 
-If you want to understand how to properly store the data read this [documentation](dataverse.html)
+If you want to understand how to properly store the data read this [documentation](dataverse.html).

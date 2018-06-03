@@ -90,7 +90,7 @@ code {
     background: hsl(220, 11%, 90%); 
 }
 pre code {
-    font-size: .8em;
+    font-size: 1em;
 }
 
 pre {
