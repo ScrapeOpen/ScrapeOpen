@@ -42,7 +42,7 @@ h2 {
 h3 {
     font-size: 1.5em;
 }
-p, ul, blockquote, ol {
+p, ul, blockquote, ol, dl {
     font-size: 1.3em;
     line-height: 1.2em;
     color: #333;
